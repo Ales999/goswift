@@ -3,7 +3,7 @@ package goswift
 import (
 	"time"
 
-	"github.com/leoantony72/goswift/expiry"
+	"github.com/ales999/goswift/expiry"
 )
 
 // DeleteExpiredKeys func is called every 3 seconds
