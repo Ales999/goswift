@@ -1,4 +1,4 @@
-module github.com/ales999/goswift
+module github.com/Ales999/goswift
 
 go 1.18
 

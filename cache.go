@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ales999/goswift/expiry"
+	"github.com/Ales999/goswift/expiry"
 )
 
 const (
